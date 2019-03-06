@@ -2,7 +2,7 @@ package com.yin;
 
 public class happe {
 	
-		Mygirlfriend mygirlfriend = new Mygirlfriend("ÐÇÄË¤µ¤æ¤ß");
+		Mygirlfriend mygirlfriend = new Mygirlfriend("  ");
 		
 		
 		
